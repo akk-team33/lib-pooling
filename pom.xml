@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.team33.libs</groupId>
-    <artifactId>lib-template-01</artifactId>
+    <artifactId>lib-pooling-01</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Team33 Library Template</name>
-    <description>A library template</description>
-    <url>https://github.com/akk-team33/lib-template</url>
+    <name>Team33 Pooling Library</name>
+    <description>A pooling library</description>
+    <url>https://github.com/akk-team33/lib-pooling</url>
 
     <licenses>
         <license>
@@ -26,9 +26,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git://github.com/akk-team33/lib-template.git</connection>
-        <developerConnection>scm:git:ssh://github.com:akk-team33/lib-template.git</developerConnection>
-        <url>https://github.com/akk-team33/lib-template</url>
+        <connection>scm:git:git://github.com/akk-team33/lib-pooling.git</connection>
+        <developerConnection>scm:git:ssh://github.com:akk-team33/lib-pooling.git</developerConnection>
+        <url>https://github.com/akk-team33/lib-pooling</url>
     </scm>
 
     <properties>

@@ -1,6 +1,6 @@
-# lib-template
+# lib-pooling
 
-    A template library project
+    A pooling library project
     
     Version 1
 
@@ -13,7 +13,7 @@
     <!-- not yet available -->
     <dependency>
       <groupId>de.team33.libs</groupId>
-      <artifactId>lib-template-01</artifactId>
+      <artifactId>lib-pooling-01</artifactId>
       <version>1.0.0</version>
     </dependency>
 
